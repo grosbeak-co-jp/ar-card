@@ -1,6 +1,6 @@
 # Blender v2.91.2 OBJ File: ''
 # www.blender.org
-mtllib https://github.com/grosbeak-co-jp/ar-card/blob/main/t_hamada/img/icon.mtl
+mtllib icon.mtl
 o 平面
 v -1.000000 0.000000 1.000000
 v 1.000000 0.000000 1.000000
